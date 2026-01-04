@@ -6,9 +6,10 @@
 - Abdullah Mustafa  
 
 **Supervisor:** Tanvyr Ahmed  
-**Institution:** School of Interdisciplinary Engineering and Sciences (SINES).
-**Collaboration** NUCT CHIP DESIGN CENTRE (NCDC) 
+**Institution:** School of Interdisciplinary Engineering and Sciences (SINES)  
+**Collaboration:** NUST Chip Design Centre (NCDC)  
 **Date:** December 2025  
+
 
 ---
 
