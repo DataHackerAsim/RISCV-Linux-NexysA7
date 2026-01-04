@@ -17,6 +17,13 @@
 See the **License & Acknowledgments** section at the end of this document.
 
 ---
+## Documentation
+
+A detailed technical report describing the architecture, design flow,
+and Linux bring-up process is available:
+
+- `ESP_Report_RISCV_Linux_FPGA.pdf`
+
 
 ## 1. Project Overview
 
