@@ -5,7 +5,7 @@
 - Shawaiz Zafar  
 - Abdullah Mustafa  
 
-**Supervisor:** Tanvyr Ahmed  
+**Supervisor:** Tanveer Ahmed  
 **Institution:** School of Interdisciplinary Engineering and Sciences (SINES)  
 **Collaboration:** NUST Chip Design Centre (NCDC)  
 **Date:** December 2025  
